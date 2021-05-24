@@ -10,8 +10,8 @@ I think it depends on what we train our minds to do every day.
 
 1. get some sleep at least 8 hour's a day.
 
-2. focus on* what you do right*.
+2. focus on* what you do right.
 
-3. *** don't give up on your dreams.***
+3. don't give up on your dreams.
 
 
