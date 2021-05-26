@@ -1,5 +1,3 @@
-# reading-notes
-
 
 ## **growth mindset**
 
