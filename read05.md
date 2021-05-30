@@ -1,6 +1,3 @@
-** JavaScript **> *JavaScript is an asynchronous, dynamically-typed, interpreted scripting language, designed to make web pages dynamic and interactive*.
-
-** JavaScript **> * is a programming language that could use Expressions and operators to do the tasks*.
 
 **Loops and iteration**
 
@@ -19,7 +16,7 @@ A while statement executes its statements as long as a specified condition evalu
 **while** *(condition)*
  
  *statement*
- 
+
 *The condition test occurs before statement in the loop is executed. If the condition returns true, statement is executed and the condition is tested again. If the condition returns false, execution stops, and control is passed to the statement following while.*
 
 
