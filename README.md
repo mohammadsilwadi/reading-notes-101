@@ -12,3 +12,7 @@ I worked for a glass and aluminium company for a year, and I am very excited to 
  + [read 04](https://mohammadsilwadi.github.io/reading-notes/read04)
  
  + [read 05](https://mohammadsilwadi.github.io/reading-notes/read05)
+ 
+ + [read 06](https://mohammadsilwadi.github.io/reading-notes/read06)
+
+ + [read 06b](https://mohammadsilwadi.github.io/reading-notes/read06b)
