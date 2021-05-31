@@ -10,7 +10,7 @@ h1 {
     font-size: 5em;
 }
 
-the color of h1 element will be red and font size will be 5 em.
+the color of the h1 element will be red and the font size will be 5 em.
 
 
 There are three ways of inserting a style sheet:
