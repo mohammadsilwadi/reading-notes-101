@@ -13,7 +13,7 @@
 *The code to be executed, by the function, is placed inside curly brackets: {}*
 
 Function nameOfTheFunction(parameter1){
-statemen
+statement
 }
 
 nameOfTheFunction(value)>>>>>here we call the function by his name.
