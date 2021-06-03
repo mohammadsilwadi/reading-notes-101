@@ -73,58 +73,35 @@ HTML5 Semantic Elements*
     details> - Defines additional details that the user can open and close on demand
     summary> - Defines a heading for the details> element.
  ![HTML5 Layout](https://www.w3schools.com/html/img_sem_elements.gif).
-# JavaScript
-**JavaScript**> *JavaScript is an asynchronous, dynamically-typed, interpreted scripting language, designed to make web pages dynamic and interactive*.
+# ABC IN JavaScript
 
-**JavaScript**> *is a programming language that could use Expressions and operators to do the tasks*.
++ A > What is script and how do O create one?
++ B> How do cpmpiters fit in with the world around them?
++ C> how do I write a script for a web page ?
+## WRITING A SCRIPT
+*To write a script, you need to first
+state your goal and then list the
+tasks that need to be completed in
+order to achieve it.*
+1. DEFINE THE GOAL
+First, you need to define the task you want to
+achieve. You can think of this as a puzzle for the
+computer to solve.
 
+2. DESIGN THE SCRIPT
+To design a script you split the goal out into a series
+of tasks that are going to be involved in solving this
+puzzle. This can be represented using a flowchart.
+You can then write down individual steps that the
+computer needs to perform in order to complete
+each individual task (and any information it needs to
+perform the task), rather like writing a recipe that it
+can follow.
 
-**JavaScript Operators**>   **such as**
+3. CODE EACH STEP
+Each of the steps needs to be written in a
+programming language that the compu ter
+understands. In our case, this is JavaScript.
 
-*The assignment operator (=) assigns a value to a variable*.
-
-EX: 
-
-var x = 5;         // assign the value 5 to x
-
-And *The addition operator (+) adds numbers* 
-
-EX:
-
-var x = 5;
-
-var y = 2;
-
-var z = x + y;
-
-And we have also
-
-**Comparison Operators**>> **such as**
-
-*== 	equal to*
-
-*=== 	equal value and equal type*
-
-*!= 	not equal*
-
-*!== 	not equal value or not equal type*
-
-*> 	greater than*
-
-*< 	less than*
-
-*>= 	 greater than or equal to*
-
-*<= 	less than or equal to*
-
-*? 	ternary operator*
-
-**Logical Operators**>> **such as**
-
-*&& 	logical and*
-
-*|| 	logical or*
-
-*! 	logical not*
-
-**Control flow**>*Control flow means that when you read a script, you must not only read from start to finish but also look at program structure and how it affects order of execution.*
+###  How do cpmpiters fit in with the world around them.
+* computers create models of wolrd using data.
