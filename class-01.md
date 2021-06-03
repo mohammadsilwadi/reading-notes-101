@@ -21,7 +21,7 @@ of the book.*
 to your code that will not be
 visible in the user's browser, you
 can add the text between these
-characters:
+characters:*
 
 <!- -comment goes here -->
 
@@ -30,7 +30,7 @@ appear to start on a new line in
 the browser window. These are
 known as block level elements.
 Examples of block elements are
-h1, p, ul, and li. *
+h1, p, ul, and li.*
 
 **Grouping Text & Elements In a Block >**
 *The div> element allows you to
@@ -61,8 +61,8 @@ follow your code if you have used
 div> elements to hold each
 section of the page.*
 # **HTML5 Layout**
-HTML has several semantic elements that define the different parts of a web page:
-HTML5 Semantic Elements 	
+*HTML has several semantic elements that define the different parts of a web page:
+HTML5 Semantic Elements* 	
 
     header> - Defines a header for a document or a section
     nav> - Defines a set of navigation links
