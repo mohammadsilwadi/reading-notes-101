@@ -27,22 +27,4 @@ I worked for a glass and aluminium company for a year, and I am very excited to 
 * [class-01](https://mohammadsilwadi.github.io/reading-notes/class-01)
 
 
- # Code 201 Reading Notes :
  
- ### Table of Contents : 
- +  
- + 
- - 
- + 
- - 
- + 
- * 
- + 
- - 
- * 
- + 
- + 
- * 
- * 
- + 
- - 
