@@ -103,5 +103,5 @@ Each of the steps needs to be written in a
 programming language that the compu ter
 understands. In our case, this is JavaScript.
 
-###  How do compiters fit in with the world around them.
+###  How do computers fit in with the world around them.
 * computers create models of wolrd using data.
