@@ -24,6 +24,7 @@ I worked for a glass and aluminium company for a year, and I am very excited to 
 
 * [read 06b](https://mohammadsilwadi.github.io/reading-notes/read06b)
 
+* [class-01](https://mohammadsilwadi.github.io/reading-notes/class-01)
 
 
  # Code 201 Reading Notes :
