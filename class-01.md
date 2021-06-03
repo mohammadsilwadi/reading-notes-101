@@ -76,7 +76,7 @@ HTML5 Semantic Elements*
 # ABC IN JavaScript
 
 + A > What is script and how do O create one?
-+ B> How do cpmpiters fit in with the world around them?
++ B> How do computers fit in with the world around them?
 + C> how do I write a script for a web page ?
 ## WRITING A SCRIPT
 *To write a script, you need to first
@@ -103,5 +103,5 @@ Each of the steps needs to be written in a
 programming language that the compu ter
 understands. In our case, this is JavaScript.
 
-###  How do cpmpiters fit in with the world around them.
+###  How do compiters fit in with the world around them.
 * computers create models of wolrd using data.
