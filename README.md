@@ -33,15 +33,15 @@ I worked for a glass and aluminium company for a year, and I am very excited to 
  + 
  - 
  + 
- -
- +
- *
- +
- -
- *
- +
- +
- *
- *
- +
- -
+ - 
+ + 
+ * 
+ + 
+ - 
+ * 
+ + 
+ + 
+ * 
+ * 
+ + 
+ - 
