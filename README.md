@@ -8,23 +8,23 @@ I worked for a glass and aluminium company for a year, and I am very excited to 
 
 ### Table of Contents : 
 
-* [Growth](https://mohammadsilwadi.github.io/reading-notes/growth)
+* [Growth](https://mohammadsilwadi.github.io/reading-notes-101/growth)
 
-+ [MarkDown](https://mohammadsilwadi.github.io/reading-notes/markdown)
++ [MarkDown](https://mohammadsilwadi.github.io/reading-notes-101/markdown)
 
- - [Git](https://mohammadsilwadi.github.io/reading-notes/git)
+ - [Git](https://mohammadsilwadi.github.io/reading-notes-101/git)
 
- + [read 03](https://mohammadsilwadi.github.io/reading-notes/read03)
+ + [read 03](https://mohammadsilwadi.github.io/reading-notes-101/read03)
 
- + [read 04](https://mohammadsilwadi.github.io/reading-notes/read04)
+ + [read 04](https://mohammadsilwadi.github.io/reading-notes-101/read04)
 
- + [read 05](https://mohammadsilwadi.github.io/reading-notes/read05)
+ + [read 05](https://mohammadsilwadi.github.io/reading-notes-101/read05)
 
- + [read 06](https://mohammadsilwadi.github.io/reading-notes/read06)
+ + [read 06](https://mohammadsilwadi.github.io/reading-notes-101/read06)
 
-* [read 06b](https://mohammadsilwadi.github.io/reading-notes/read06b)
+* [read 06b](https://mohammadsilwadi.github.io/reading-notes-101/read06b)
 
-* [class-01](https://mohammadsilwadi.github.io/reading-notes/class-01)
+* [class-01](https://mohammadsilwadi.github.io/reading-notes-101/class-01)
 
 
  
